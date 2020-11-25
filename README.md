@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on an amazing, responsive project
 - 🤔 I’m looking for help with Vue, and Angular
-- 💬 Ask me anything about frontend development... lol just kidding. I'm still having trouble with aforelisted languages
+- 💬 Ask me anything about frontend development... lol just kidding. I'm still having trouble with aforelisted (frontend )languages
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I've been coding since I was 13, and back then I used no languages other than vanilla JavaScript to create single-page applications
 
