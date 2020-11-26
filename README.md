@@ -2,7 +2,7 @@
 
 
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 - 🔭 I’m currently working on [Chatterbox](https://abbaskhurram255.github.io/Chatterbox/)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on an amazing, responsive project
