@@ -11,7 +11,7 @@
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I've been coding since I was 13, and back then I used no languages other than vanilla JavaScript to create single-page applications
 
-📫 [Want to get in touch?](https://abbaskhurram255.github.io/Portfolio/#contact)
+📫 [Want to reach me?](https://abbaskhurram255.github.io/Portfolio/#contact)
 &nbsp;
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abbaskhurram255&count_private=true&hide=stars,issues&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
