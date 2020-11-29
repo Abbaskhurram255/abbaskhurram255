@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Vue, and Angular
 - 💬 Ask me anything about frontend development... lol just kidding. I'm still having trouble with aforelisted (frontend) languages
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I've been coding since I was 13, and back then I used no languages other than vanilla JavaScript to create single-page applications
+- ⚡ Fun fact: I've been coding since I was 13, and back then I used no languages other than vanilla JavaScript to create <em>single-page applications</em>
 
 📫 [Want to reach me?](https://abbaskhurram255.github.io/Portfolio/#contact)
 &nbsp;
