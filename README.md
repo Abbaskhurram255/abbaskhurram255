@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Chatterbox](https://abbaskhurram255.github.io/Chatterbox/)
+- 🔭 I’m currently working on [Chatterbox](https://github.com/abbaskhurram255/Chatterbox/)
 - 🌱 I’m currently learning Vue, and Angular
 - 👯 I’m looking to collaborate on an amazing, responsive project
 - 🤔 I’m looking for help with Vue, and Angular
