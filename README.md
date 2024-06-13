@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Is currently preoccupied working [AyeshaPT](https://github.com/abbaskhurram255/Chatterbox/), her most favorite project
+- 🔭 Is currently preoccupied debugging [AyeshaPT](https://github.com/abbaskhurram255/Chatterbox/), her recent project
 - 🌱 Is also busy learning React
 - 👯 Is willing to collaborate on an amazing Progressive Web Application (PWA)
 - 🤔 Is also looking for someone to help her better her React skills
