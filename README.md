@@ -6,7 +6,7 @@
 - 🔭 Is currently preoccupied working [AyeshaPT](https://github.com/abbaskhurram255/Chatterbox/), her most favorite project
 - 🌱 Is also busy learning React
 - 👯 Is willing to collaborate on an amazing Progressive Web Application (PWA)
-- 🤔 Is also looking for someone to help her improve her React
+- 🤔 Is also looking for someone to help her better her React skills
 - 💬 You can ask her anything about frontend development... wait, nah, just kidding. Tbh I'm still having trouble with aforelisted frontend languages :P.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact 01: Has been coding since she was 13, but back then she had no languages skills so she used <em>Yoyogames' GameMaker</em> instead
